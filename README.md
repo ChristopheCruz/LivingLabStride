@@ -7,7 +7,7 @@ This project is beacon-based indoor localization system base at the computer sci
 
 ## STriDE
 
-STriDE means **S**patio-temporal **T**rajectories in **D**ynamic **E**nvironment. STriDE is a ontology-based model and an infrastructure that allows to store user trajectories, to process analytics on the trajectories. The contribution of the STriDE methodology consists in grabbing the evolution of the building for further analytics.
+STriDE means **S**patio-temporal **T**rajectories in **D**ynamic **E**nvironment. STriDE is an ontology-based model and an infrastructure that allows to store user trajectories, to process analytics on the trajectories. The contribution of the STriDE methodology consists in grabbing the evolution of the building for further analytics.
 
 
 ## Publications
@@ -20,7 +20,7 @@ STriDE means **S**patio-temporal **T**rajectories in **D**ynamic **E**nvironment
 
 In the _datasets_ repository, a set of trajectories and the OSM map (Open Street Map) can be found [Google Map](https://www.google.com/maps/place/IUT+Dijon/@47.3110164,5.068346,19.58z/data=!3m1!5s0x47f29e6eeec3b081:0xe3076a48a9fe61f1!4m5!3m4!1s0x47f29e6edc000023:0xc034427f4d6a0b09!8m2!3d47.3110124!4d5.0685015).
 
-The "datasetMay18.csv" is a set of student trajectories grabbed during the March and May 2018. The dataset as anonymized.
+The "datasetMay18.csv" file is a set of student trajectories grabbed during March and May 2018. The dataset was anonymized.
 
 The column is the following:
 UserID, Datatime, Building, Floor, Long, Lat
